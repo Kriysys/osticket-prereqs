@@ -19,11 +19,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Web Server (e.g., Apache, Nginx)
+- PHP 7.2 or later
+- Database System (e.g., MySQL, PostgreSQL, SQLite)
+- Database Access Credentials
+- Web Browser
+- Operating System
+- SSL Certificate (recommended)
+- Required PHP Extensions (e.g., gd, imap, json)
+- Mail Server or SMTP Configuration
+- Cron Job (Scheduled Task)
+- Correct File Permissions
+- Backup and Recovery Plan
+- Adequate Server Resources (CPU, RAM, disk space)
 
 <h2>Installation Steps</h2>
 
